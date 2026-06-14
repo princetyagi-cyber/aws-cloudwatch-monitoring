@@ -28,7 +28,7 @@ Launch an EC2 instance for monitoring.
 
 View EC2 metrics in CloudWatch.
 
-![Metrics](screenshots/view-metrics.png)
+![Metrics](screenshots/cloudwatch-metrics.png)
 
 ---
 
@@ -44,7 +44,7 @@ Create a CloudWatch Dashboard.
 
 Add EC2 CPU Utilization metric to the dashboard.
 
-![Metrics](screenshots/dashboard-metrics.png)
+![Metrics](screenshots/add-metrics.png)
 
 ---
 
@@ -60,7 +60,7 @@ Create an alarm for EC2 CPU Utilization.
 
 Verify dashboard and alarm configuration.
 
-![Output](screenshots/monitoring-output.png)
+![Output](screenshots/cloudwatch-output.png)
 
 ---
 
